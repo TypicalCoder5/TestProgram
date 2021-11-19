@@ -1,0 +1,3 @@
+Here's the replit app in case you want to try it on replit!
+----------------------------------------------------------------------------------
+https://replit.com/@TypicalCoder/Test-Console-Program?v=1

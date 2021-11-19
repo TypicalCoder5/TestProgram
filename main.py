@@ -1,0 +1,6 @@
+print ('Welcome!')
+name = input('What is your name? (for game purpose)\n')
+print('Hi, %s.' % name)
+name = input('Are you ready for your adventure?\n')
+print('Good luck!')
+print('END OF PROGRAM')
